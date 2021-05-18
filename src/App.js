@@ -5,6 +5,7 @@ import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Certificat from './components/Certificat';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Jumbotron />
       <About />
+      <Certificat />
       <Portfolio />
       <Contact />
       <Footer />

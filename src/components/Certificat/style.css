@@ -1,0 +1,12 @@
+.card {
+  width: 32rem;
+  opacity: 0.9;
+}
+
+#certificat {
+  background-image: url("./images/machine.jpg");
+  height: 100vh;
+  min-height: 40rem;
+  padding-top: 4.5rem;
+  padding-bottom: 0;
+}

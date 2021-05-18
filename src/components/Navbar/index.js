@@ -19,7 +19,7 @@ function Navbar () {
                                 <a className="nav-link" href="#portfolio">Portfolio</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#certificate">Certificates</a>
+                                <a className="nav-link" href="#certificat">Certificates</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" href="#contact">Contact</a>
