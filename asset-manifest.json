@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PortfolioWithReact/static/css/main.5fa52880.chunk.css",
+    "main.js": "/PortfolioWithReact/static/js/main.cdd3c23d.chunk.js",
+    "main.js.map": "/PortfolioWithReact/static/js/main.cdd3c23d.chunk.js.map",
+    "runtime-main.js": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js",
+    "runtime-main.js.map": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js.map",
+    "static/css/2.ccaf9f56.chunk.css": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css",
+    "static/js/2.3170d904.chunk.js": "/PortfolioWithReact/static/js/2.3170d904.chunk.js",
+    "static/js/2.3170d904.chunk.js.map": "/PortfolioWithReact/static/js/2.3170d904.chunk.js.map",
+    "index.html": "/PortfolioWithReact/index.html",
+    "static/css/2.ccaf9f56.chunk.css.map": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css.map",
+    "static/css/main.5fa52880.chunk.css.map": "/PortfolioWithReact/static/css/main.5fa52880.chunk.css.map",
+    "static/js/2.3170d904.chunk.js.LICENSE.txt": "/PortfolioWithReact/static/js/2.3170d904.chunk.js.LICENSE.txt",
+    "static/media/CourseraCertificate.ecac473f.jpg": "/PortfolioWithReact/static/media/CourseraCertificate.ecac473f.jpg",
+    "static/media/TolgaSecmeNewResumeSecondUpdate.31f1a64a.pdf": "/PortfolioWithReact/static/media/TolgaSecmeNewResumeSecondUpdate.31f1a64a.pdf",
+    "static/media/UdacityCertificate.cdcbb1bf.jpg": "/PortfolioWithReact/static/media/UdacityCertificate.cdcbb1bf.jpg",
+    "static/media/style.css": "/PortfolioWithReact/static/media/plain-black-background-for-retina.8330a8f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253d5b85.js",
+    "static/css/2.ccaf9f56.chunk.css",
+    "static/js/2.3170d904.chunk.js",
+    "static/css/main.5fa52880.chunk.css",
+    "static/js/main.cdd3c23d.chunk.js"
+  ]
+}
