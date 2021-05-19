@@ -1,0 +1,21 @@
+.ScrollUpButton {
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  border: 5px solid black;
+  height: 50px;
+  position: fixed;
+  bottom: 20px;
+  width: 50px;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition-property: opacity, right;
+  transition-property: opacity, right;
+  cursor: pointer;
+  opacity: 0;
+  right: -75px;
+}
+
+.ScrollUpButton {
+  opacity: 1;
+  right: 20px;
+}

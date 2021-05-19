@@ -7,12 +7,14 @@ import Weather from './images/WeatherDashboard.jpg';
 import Dayplanner from './images/Dayplanner.jpg';
 import Readme from './images/Readmegenerator.jpg';
 import Password from './images/PasswordGen.jpg';
+import './style.css';
 
 function Portfolio () {
     return (
-        <section className="mt-2" id="portfolio">
-            <div className="container-fluid">
-            <div className="row no-gutters">
+        <section id="portfolio">
+            <div className="container">
+            <div className="row justify-content-center">
+            <h2 className="text-center mt-5 portfolio">Portfolio</h2>
                 <div className="col-lg-6 col-sm-12 mb-2 px-5 py-5">
                     <div className="card">
                         <img src={PPCO} className="card-img-top" alt="ppco" />

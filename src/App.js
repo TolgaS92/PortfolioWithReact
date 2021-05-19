@@ -6,10 +6,12 @@ import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Certificat from './components/Certificat';
+import ScrollUpButton from './components/ScrollUpButton';
 
 function App() {
   return (
     <div>
+      <ScrollUpButton />
       <Navbar />
       <Jumbotron />
       <About />

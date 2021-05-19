@@ -7,7 +7,7 @@ function Certificat () {
     return (
         <section id="certificat">
             <div className="container">
-            <h2 className="text-center mb-5 text-white">Certificates</h2>
+            <h2 className="text-center mb-5 text-white certificates">Certificates</h2>
                 <div className="row no-gutters">
                     <div className="col-sm-6">
                         <div className="card">
