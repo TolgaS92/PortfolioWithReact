@@ -25,7 +25,7 @@ function Portfolio () {
                                                 specialist. Our client was overwhelmed with using multiple applications
                                                 to interact with her clients. We have solved her problems by creating
                                                 one site that collects user data on a daily bases from her clients.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://parentingpracticeco.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ function Portfolio () {
                                                 location, so that I know when the park is open and closed and I can find
                                                 the available activities to plan my vacation. Also I want to know the
                                                 local weather so that I can plan accordingly.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://tolgas92.github.io/National-Parks-and-Weather-Services/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ function Portfolio () {
                             <p className="card-text">An Application that you have to create an account, and
                                                 after sign in to the app it will let you create, update, delete a blog
                                                 contents.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://pure-reaches-15227.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ function Portfolio () {
                             <h5 className="card-title">The Notebook taker</h5>
                             <p className="card-text">This application is creating or deleting notes with
                                                 using node.js, and express.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://sheltered-island-38155.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ function Portfolio () {
                             <p className="card-text">Our goal is to retreve weather data for cities, with
                                                 using third-party Api's and localstorage to create interactive weather
                                                 forecast website.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://tolgas92.github.io/Weather-Dashboard/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@ function Portfolio () {
                                                 application that allows to user to save events for each hour of the day.
                                                 This app will run in the browser and feature dynamically updated HTML
                                                 and CSS powered by jQuery.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://tolgas92.github.io/Calender-Day-Planner/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ function Portfolio () {
                             <h5 className="card-title">Password Generator</h5>
                             <p className="card-text">The purpose of this page to generate a random password
                                                 with given numbers,alfabethics, and symbols.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://tolgas92.github.io/Password-Generator/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@ function Portfolio () {
                             <h5 className="card-title">README-Generator</h5>
                             <p className="card-text">This application will help the user to create a
                                                 professional READme file.</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
+                            <a href="https://github.com/TolgaS92/README-Generator" target="blank" className="btn btn-dark btn-outline-light">Go to Github repo</a>
                         </div>
                     </div>
                 </div>

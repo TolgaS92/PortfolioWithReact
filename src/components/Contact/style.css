@@ -10,3 +10,10 @@
 .divider {
   color: white;
 }
+
+.contact-btn:hover {
+  transition: all 0.2s ease-in-out;
+  color: white;
+  cursor: pointer;
+  transform: scale(1.5);
+}
