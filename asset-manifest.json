@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PortfolioWithReact/static/css/main.1b8fa26e.chunk.css",
-    "main.js": "/PortfolioWithReact/static/js/main.fb369bc0.chunk.js",
-    "main.js.map": "/PortfolioWithReact/static/js/main.fb369bc0.chunk.js.map",
+    "main.css": "/PortfolioWithReact/static/css/main.da0809f2.chunk.css",
+    "main.js": "/PortfolioWithReact/static/js/main.c8a8ace1.chunk.js",
+    "main.js.map": "/PortfolioWithReact/static/js/main.c8a8ace1.chunk.js.map",
     "runtime-main.js": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js",
     "runtime-main.js.map": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js.map",
     "static/css/2.ccaf9f56.chunk.css": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.326f47d6.chunk.js.map": "/PortfolioWithReact/static/js/2.326f47d6.chunk.js.map",
     "index.html": "/PortfolioWithReact/index.html",
     "static/css/2.ccaf9f56.chunk.css.map": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css.map",
-    "static/css/main.1b8fa26e.chunk.css.map": "/PortfolioWithReact/static/css/main.1b8fa26e.chunk.css.map",
+    "static/css/main.da0809f2.chunk.css.map": "/PortfolioWithReact/static/css/main.da0809f2.chunk.css.map",
     "static/js/2.326f47d6.chunk.js.LICENSE.txt": "/PortfolioWithReact/static/js/2.326f47d6.chunk.js.LICENSE.txt",
     "static/media/CourseraCertificate.ecac473f.jpg": "/PortfolioWithReact/static/media/CourseraCertificate.ecac473f.jpg",
     "static/media/Dayplanner.4e0e3718.jpg": "/PortfolioWithReact/static/media/Dayplanner.4e0e3718.jpg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.253d5b85.js",
     "static/css/2.ccaf9f56.chunk.css",
     "static/js/2.326f47d6.chunk.js",
-    "static/css/main.1b8fa26e.chunk.css",
-    "static/js/main.fb369bc0.chunk.js"
+    "static/css/main.da0809f2.chunk.css",
+    "static/js/main.c8a8ace1.chunk.js"
   ]
 }
