@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PortfolioWithReact/static/css/main.aee7774d.chunk.css",
-    "main.js": "/PortfolioWithReact/static/js/main.eef16c4f.chunk.js",
-    "main.js.map": "/PortfolioWithReact/static/js/main.eef16c4f.chunk.js.map",
+    "main.js": "/PortfolioWithReact/static/js/main.50e8c5e4.chunk.js",
+    "main.js.map": "/PortfolioWithReact/static/js/main.50e8c5e4.chunk.js.map",
     "runtime-main.js": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js",
     "runtime-main.js.map": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js.map",
     "static/css/2.ccaf9f56.chunk.css": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css",
@@ -25,13 +25,13 @@
     "static/media/homepage.e78d026d.JPG": "/PortfolioWithReact/static/media/homepage.e78d026d.JPG",
     "static/media/homepageppco.15756051.jpg": "/PortfolioWithReact/static/media/homepageppco.15756051.jpg",
     "static/media/notebook.6fa64f21.png": "/PortfolioWithReact/static/media/notebook.6fa64f21.png",
-    "static/media/profilePhoto.f8a10474.JPG": "/PortfolioWithReact/static/media/profilePhoto.f8a10474.JPG"
+    "static/media/profilepic.bdf5e9ea.jpg": "/PortfolioWithReact/static/media/profilepic.bdf5e9ea.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.253d5b85.js",
     "static/css/2.ccaf9f56.chunk.css",
     "static/js/2.9c2b7a7c.chunk.js",
     "static/css/main.aee7774d.chunk.css",
-    "static/js/main.eef16c4f.chunk.js"
+    "static/js/main.50e8c5e4.chunk.js"
   ]
 }
