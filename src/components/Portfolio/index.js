@@ -1,11 +1,11 @@
 import React from 'react';
+import Crypto from './images/homepage.JPG';
 import PPCO from './images/homepageppco.jpg';
 import NPWA from './images/NPandWA.png';
 import Dashboard from './images/dashboard.jpg';
 import Notebook from './images/notebook.png';
 import Weather from './images/WeatherDashboard.jpg';
 import Dayplanner from './images/Dayplanner.jpg';
-import Readme from './images/Readmegenerator.jpg';
 import Password from './images/PasswordGen.jpg';
 import './style.css';
 
@@ -15,6 +15,16 @@ function Portfolio () {
             <div className="container">
             <div className="row justify-content-center">
             <h2 className="text-center mt-5 portfolio">Portfolio</h2>
+                <div className="col-lg-6 col-sm-12 mb-2 px-5 py-5">
+                    <div className="card">
+                        <img src={Crypto} className="card-img-top" alt="cryptoCars" />
+                        <div className="card-body">
+                            <h5 className="card-title">CryptoCars</h5>
+                            <p className="card-text">The user can search using their cars VIN number and get the average market price for their car in USD and the current Crypto Currency price. Because the cryto currency market is changing at such a rapid pace, the user can save the searched price eveytime they search to see if the crypto price is increasing or decreasing.</p>
+                            <a href="https://cryptocarsmern.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                        </div>
+                    </div>
+                </div>
                 <div className="col-lg-6 col-sm-12 mb-2 px-5 py-5">
                     <div className="card">
                         <img src={PPCO} className="card-img-top" alt="ppco" />
@@ -99,17 +109,6 @@ function Portfolio () {
                             <p className="card-text">The purpose of this page to generate a random password
                                                 with given numbers,alfabethics, and symbols.</p>
                             <a href="https://tolgas92.github.io/Password-Generator/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-6 col-sm-12 mb-2 px-5 py-5">
-                    <div className="card">
-                        <img src={Readme} className="card-img-top" alt="readmegen" />
-                        <div className="card-body">
-                            <h5 className="card-title">README-Generator</h5>
-                            <p className="card-text">This application will help the user to create a
-                                                professional READme file.</p>
-                            <a href="https://github.com/TolgaS92/README-Generator" target="blank" className="btn btn-dark btn-outline-light">Go to Github repo</a>
                         </div>
                     </div>
                 </div>
