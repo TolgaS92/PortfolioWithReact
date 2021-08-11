@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import Profile from './images/profilePhoto.JPG';
+import Profile from './images/profilepic.jpg';
 import useStyles from './styles';
 
 function Jumbotron () {
