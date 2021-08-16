@@ -1,5 +1,7 @@
 import React from 'react';
 import './style.css';
+import { Link } from 'react-router-dom';
+import { Typography, Button } from '@material-ui/core';
 import Profile from './images/profilepic.jpg';
 import useStyles from './styles';
 
@@ -15,9 +17,9 @@ function Jumbotron () {
                     <hr></hr>
                     <img src={Profile} className={classes.profile} alt="profilepicture" />
                     <hr></hr>
-                    <div className="col-lg-8 align-self-baseline">
-                        <a href="/portfolio" id="portfolioBtn" className="btn btn-lg btn-dark btn-outline-light px-4">Portfolio</a>
-                    </div>
+                    <Typography className={classes.heading} align="center">
+                        <Button className={classes.button} component={Link} to="/portfolio">Portfolio</Button>
+                    </Typography>
                 </div>
             </div>
         </header>
