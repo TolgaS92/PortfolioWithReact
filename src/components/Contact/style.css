@@ -1,6 +1,7 @@
 #contact {
   background-image: url("./image/escr.jpg");
   background-position: center;
+  height: 100vh;
 }
 .contact {
   font-family: "Biryani", sans-serif;
