@@ -8,7 +8,7 @@ function Navbar () {
     return (
         <AppBar className={classes.appBar} position="static" color="inherit">
             <div className={classes.brandContainer}>
-                <Button component={Link} to="/">
+                <Button component={Link} to="/PortfolioWithReact/">
                 <a className="navbar-brand text-warning" href="/">Tolga Secme</a>
                 </Button>
             </div>
