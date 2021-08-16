@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PortfolioWithReact/static/css/main.5e4952ce.chunk.css",
+    "main.css": "/PortfolioWithReact/static/css/main.34aa837f.chunk.css",
     "main.js": "/PortfolioWithReact/static/js/main.f42a9685.chunk.js",
     "main.js.map": "/PortfolioWithReact/static/js/main.f42a9685.chunk.js.map",
     "runtime-main.js": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js",
@@ -10,7 +10,7 @@
     "static/js/2.51b2d372.chunk.js.map": "/PortfolioWithReact/static/js/2.51b2d372.chunk.js.map",
     "index.html": "/PortfolioWithReact/index.html",
     "static/css/2.ccaf9f56.chunk.css.map": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css.map",
-    "static/css/main.5e4952ce.chunk.css.map": "/PortfolioWithReact/static/css/main.5e4952ce.chunk.css.map",
+    "static/css/main.34aa837f.chunk.css.map": "/PortfolioWithReact/static/css/main.34aa837f.chunk.css.map",
     "static/js/2.51b2d372.chunk.js.LICENSE.txt": "/PortfolioWithReact/static/js/2.51b2d372.chunk.js.LICENSE.txt",
     "static/media/07.16.2021UpdatedResume.d82774ff.pdf": "/PortfolioWithReact/static/media/07.16.2021UpdatedResume.d82774ff.pdf",
     "static/media/CourseraCertificate.ecac473f.jpg": "/PortfolioWithReact/static/media/CourseraCertificate.ecac473f.jpg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.253d5b85.js",
     "static/css/2.ccaf9f56.chunk.css",
     "static/js/2.51b2d372.chunk.js",
-    "static/css/main.5e4952ce.chunk.css",
+    "static/css/main.34aa837f.chunk.css",
     "static/js/main.f42a9685.chunk.js"
   ]
 }
