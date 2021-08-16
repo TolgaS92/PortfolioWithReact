@@ -13,11 +13,11 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Switch>
-        <Route exact path="/" component={Jumbotron}/>
-        <Route exact path="/about" component={About}/>
-        <Route exact path="/certificates" component={Certificat}/>
-        <Route exact path="/portfolio" component={Portfolio}/>
-        <Route exact path="/contact" component={Contact}/>
+        <Route exact path="/PortfolioWithReact/" component={Jumbotron}/>
+        <Route exact path="/PortfolioWithReact/about" component={About}/>
+        <Route exact path="/PortfolioWithReact/certificates" component={Certificat}/>
+        <Route exact path="/PortfolioWithReact/portfolio" component={Portfolio}/>
+        <Route exact path="/PortfolioWithReact/contact" component={Contact}/>
       </Switch>
       <Footer />
     </BrowserRouter>
