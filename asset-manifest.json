@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PortfolioWithReact/static/css/main.aee7774d.chunk.css",
-    "main.js": "/PortfolioWithReact/static/js/main.7027f61a.chunk.js",
-    "main.js.map": "/PortfolioWithReact/static/js/main.7027f61a.chunk.js.map",
+    "main.css": "/PortfolioWithReact/static/css/main.5e4952ce.chunk.css",
+    "main.js": "/PortfolioWithReact/static/js/main.b027c7b0.chunk.js",
+    "main.js.map": "/PortfolioWithReact/static/js/main.b027c7b0.chunk.js.map",
     "runtime-main.js": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js",
     "runtime-main.js.map": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js.map",
     "static/css/2.ccaf9f56.chunk.css": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css",
-    "static/js/2.9f6726bb.chunk.js": "/PortfolioWithReact/static/js/2.9f6726bb.chunk.js",
-    "static/js/2.9f6726bb.chunk.js.map": "/PortfolioWithReact/static/js/2.9f6726bb.chunk.js.map",
+    "static/js/2.208301a6.chunk.js": "/PortfolioWithReact/static/js/2.208301a6.chunk.js",
+    "static/js/2.208301a6.chunk.js.map": "/PortfolioWithReact/static/js/2.208301a6.chunk.js.map",
     "index.html": "/PortfolioWithReact/index.html",
     "static/css/2.ccaf9f56.chunk.css.map": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css.map",
-    "static/css/main.aee7774d.chunk.css.map": "/PortfolioWithReact/static/css/main.aee7774d.chunk.css.map",
-    "static/js/2.9f6726bb.chunk.js.LICENSE.txt": "/PortfolioWithReact/static/js/2.9f6726bb.chunk.js.LICENSE.txt",
+    "static/css/main.5e4952ce.chunk.css.map": "/PortfolioWithReact/static/css/main.5e4952ce.chunk.css.map",
+    "static/js/2.208301a6.chunk.js.LICENSE.txt": "/PortfolioWithReact/static/js/2.208301a6.chunk.js.LICENSE.txt",
     "static/media/07.16.2021UpdatedResume.d82774ff.pdf": "/PortfolioWithReact/static/media/07.16.2021UpdatedResume.d82774ff.pdf",
     "static/media/CourseraCertificate.ecac473f.jpg": "/PortfolioWithReact/static/media/CourseraCertificate.ecac473f.jpg",
     "static/media/DUCertificate.b0f804f2.jpg": "/PortfolioWithReact/static/media/DUCertificate.b0f804f2.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.253d5b85.js",
     "static/css/2.ccaf9f56.chunk.css",
-    "static/js/2.9f6726bb.chunk.js",
-    "static/css/main.aee7774d.chunk.css",
-    "static/js/main.7027f61a.chunk.js"
+    "static/js/2.208301a6.chunk.js",
+    "static/css/main.5e4952ce.chunk.css",
+    "static/js/main.b027c7b0.chunk.js"
   ]
 }
