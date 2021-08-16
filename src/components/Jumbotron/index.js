@@ -16,7 +16,7 @@ function Jumbotron () {
                     <img src={Profile} className={classes.profile} alt="profilepicture" />
                     <hr></hr>
                     <div className="col-lg-8 align-self-baseline">
-                        <a href="#portfolio" id="portfolioBtn" className="btn btn-lg btn-dark btn-outline-light px-4">Portfolio</a>
+                        <a href="/portfolio" id="portfolioBtn" className="btn btn-lg btn-dark btn-outline-light px-4">Portfolio</a>
                     </div>
                 </div>
             </div>

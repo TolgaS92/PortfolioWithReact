@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Switch>
-        <Route exact path="/PortfolioWithReact/" component={Jumbotron}/>
+        <Route exact path="/" component={Jumbotron}/>
         <Route exact path="/about" component={About}/>
         <Route exact path="/certificates" component={Certificat}/>
         <Route exact path="/portfolio" component={Portfolio}/>

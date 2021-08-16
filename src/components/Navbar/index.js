@@ -1,34 +1,37 @@
 import React from 'react';
-import './style.css';
+import { Link } from 'react-router-dom';
+import { Toolbar, AppBar, Typography, Button } from '@material-ui/core';
+import useStyles from './style';
 
 function Navbar () {
+    const classes = useStyles();
     return (
-        <header>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                <div className="container">
-                    <a className="navbar-brand" href="/PortfolioWithReact">Tolga Secme</a>
-                        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample007" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
-                            <span className="navbar-toggler-icon"></span>
-                        </button>
-                    <div className="collapse navbar-collapse" id="navbarsExample007">
-                        <ul className="navbar-nav mr-auto">
-                            <li className="nav-item active">
-                                <a className="nav-link" href="/about">About</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="/portfolio">Portfolio</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="/certificates">Certificates</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="/contact">Contact</a>
-                            </li>
-                        </ul>
-                    </div>
+        <AppBar className={classes.appBar} position="static" color="inherit">
+            <div className={classes.brandContainer}>
+                <Button component={Link} to="/">
+                <a className="navbar-brand text-warning" href="/">Tolga Secme</a>
+                </Button>
+            </div>
+            <div>
+            </div>
+        <Toolbar 
+            className={classes.toolbar}>
+                <div className={classes.profile}>
+                <Typography className={classes.heading} align="left">
+                    <Button className={classes.button} component={Link} to="/about">About</Button>
+                </Typography>
+                <Typography className={classes.heading} align="left">
+                    <Button className={classes.button} component={Link} to="/certificates">Certificates</Button>
+                </Typography>
+                <Typography className={classes.heading} align="left">
+                    <Button className={classes.button} component={Link} to="/portfolio">Portfolio</Button>
+                </Typography>
+                <Typography className={classes.heading} align="left">
+                    <Button className={classes.button} component={Link} to="/contact">Contact</Button>
+                </Typography>
                 </div>
-            </nav>
-        </header>
+            </Toolbar>
+        </AppBar>
     )
 }
 
