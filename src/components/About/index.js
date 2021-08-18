@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import Resume from './resume/TolgaSecmeResume.pdf';
+import Resume from './resume/TolgaSecme08_18_2021.pdf';
 
 
 
