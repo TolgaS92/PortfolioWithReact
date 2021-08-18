@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PortfolioWithReact/static/css/main.34aa837f.chunk.css",
-    "main.js": "/PortfolioWithReact/static/js/main.f42a9685.chunk.js",
-    "main.js.map": "/PortfolioWithReact/static/js/main.f42a9685.chunk.js.map",
+    "main.css": "/PortfolioWithReact/static/css/main.2401f3f1.chunk.css",
+    "main.js": "/PortfolioWithReact/static/js/main.c7743c9a.chunk.js",
+    "main.js.map": "/PortfolioWithReact/static/js/main.c7743c9a.chunk.js.map",
     "runtime-main.js": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js",
     "runtime-main.js.map": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js.map",
     "static/css/2.ccaf9f56.chunk.css": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css",
-    "static/js/2.51b2d372.chunk.js": "/PortfolioWithReact/static/js/2.51b2d372.chunk.js",
-    "static/js/2.51b2d372.chunk.js.map": "/PortfolioWithReact/static/js/2.51b2d372.chunk.js.map",
+    "static/js/2.f137e813.chunk.js": "/PortfolioWithReact/static/js/2.f137e813.chunk.js",
+    "static/js/2.f137e813.chunk.js.map": "/PortfolioWithReact/static/js/2.f137e813.chunk.js.map",
     "index.html": "/PortfolioWithReact/index.html",
     "static/css/2.ccaf9f56.chunk.css.map": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css.map",
-    "static/css/main.34aa837f.chunk.css.map": "/PortfolioWithReact/static/css/main.34aa837f.chunk.css.map",
-    "static/js/2.51b2d372.chunk.js.LICENSE.txt": "/PortfolioWithReact/static/js/2.51b2d372.chunk.js.LICENSE.txt",
-    "static/media/07.16.2021UpdatedResume.d82774ff.pdf": "/PortfolioWithReact/static/media/07.16.2021UpdatedResume.d82774ff.pdf",
+    "static/css/main.2401f3f1.chunk.css.map": "/PortfolioWithReact/static/css/main.2401f3f1.chunk.css.map",
+    "static/js/2.f137e813.chunk.js.LICENSE.txt": "/PortfolioWithReact/static/js/2.f137e813.chunk.js.LICENSE.txt",
     "static/media/CourseraCertificate.ecac473f.jpg": "/PortfolioWithReact/static/media/CourseraCertificate.ecac473f.jpg",
     "static/media/DUCertificate.b0f804f2.jpg": "/PortfolioWithReact/static/media/DUCertificate.b0f804f2.jpg",
     "static/media/Dayplanner.4e0e3718.jpg": "/PortfolioWithReact/static/media/Dayplanner.4e0e3718.jpg",
     "static/media/NPandWA.a683ad94.png": "/PortfolioWithReact/static/media/NPandWA.a683ad94.png",
     "static/media/PasswordGen.f1b600af.jpg": "/PortfolioWithReact/static/media/PasswordGen.f1b600af.jpg",
+    "static/media/TolgaSecmeResume.3ae8f934.pdf": "/PortfolioWithReact/static/media/TolgaSecmeResume.3ae8f934.pdf",
     "static/media/UdacityCertificate.cdcbb1bf.jpg": "/PortfolioWithReact/static/media/UdacityCertificate.cdcbb1bf.jpg",
     "static/media/WeatherDashboard.3e0e2c5d.jpg": "/PortfolioWithReact/static/media/WeatherDashboard.3e0e2c5d.jpg",
     "static/media/dashboard.4753df9d.jpg": "/PortfolioWithReact/static/media/dashboard.4753df9d.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.253d5b85.js",
     "static/css/2.ccaf9f56.chunk.css",
-    "static/js/2.51b2d372.chunk.js",
-    "static/css/main.34aa837f.chunk.css",
-    "static/js/main.f42a9685.chunk.js"
+    "static/js/2.f137e813.chunk.js",
+    "static/css/main.2401f3f1.chunk.css",
+    "static/js/main.c7743c9a.chunk.js"
   ]
 }
