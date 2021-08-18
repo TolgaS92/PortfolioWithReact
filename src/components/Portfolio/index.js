@@ -21,7 +21,8 @@ function Portfolio () {
                         <div className="card-body">
                             <h5 className="card-title">CryptoCars</h5>
                             <p className="card-text">The user can search using their cars VIN number and get the average market price for their car in USD and the current Crypto Currency price. Because the cryto currency market is changing at such a rapid pace, the user can save the searched price eveytime they search to see if the crypto price is increasing or decreasing.</p>
-                            <a href="https://cryptocarsmern.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://cryptocarsmern.herokuapp.com/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/CryptoCars" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +36,8 @@ function Portfolio () {
                                                 specialist. Our client was overwhelmed with using multiple applications
                                                 to interact with her clients. We have solved her problems by creating
                                                 one site that collects user data on a daily bases from her clients.</p>
-                            <a href="https://parentingpracticeco.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://parentingpracticeco.herokuapp.com/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/ParentingPracticeCO" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>
@@ -49,7 +51,8 @@ function Portfolio () {
                                                 location, so that I know when the park is open and closed and I can find
                                                 the available activities to plan my vacation. Also I want to know the
                                                 local weather so that I can plan accordingly.</p>
-                            <a href="https://tolgas92.github.io/National-Parks-and-Weather-Services/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://tolgas92.github.io/National-Parks-and-Weather-Services/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/National-Parks-and-Weather-Services" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>
@@ -61,7 +64,8 @@ function Portfolio () {
                             <p className="card-text">An Application that you have to create an account, and
                                                 after sign in to the app it will let you create, update, delete a blog
                                                 contents.</p>
-                            <a href="https://pure-reaches-15227.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://pure-reaches-15227.herokuapp.com/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/TechBlog-MVC" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>
@@ -72,7 +76,8 @@ function Portfolio () {
                             <h5 className="card-title">The Notebook taker</h5>
                             <p className="card-text">This application is creating or deleting notes with
                                                 using node.js, and express.</p>
-                            <a href="https://sheltered-island-38155.herokuapp.com/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://sheltered-island-38155.herokuapp.com/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/TheNoteBookTaker" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>
@@ -84,7 +89,8 @@ function Portfolio () {
                             <p className="card-text">Our goal is to retreve weather data for cities, with
                                                 using third-party Api's and localstorage to create interactive weather
                                                 forecast website.</p>
-                            <a href="https://tolgas92.github.io/Weather-Dashboard/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://tolgas92.github.io/Weather-Dashboard/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/Weather-Dashboard" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>
@@ -97,7 +103,8 @@ function Portfolio () {
                                                 application that allows to user to save events for each hour of the day.
                                                 This app will run in the browser and feature dynamically updated HTML
                                                 and CSS powered by jQuery.</p>
-                            <a href="https://tolgas92.github.io/Calender-Day-Planner/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://tolgas92.github.io/Calender-Day-Planner/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/Calender-Day-Planner" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>
@@ -108,7 +115,8 @@ function Portfolio () {
                             <h5 className="card-title">Password Generator</h5>
                             <p className="card-text">The purpose of this page to generate a random password
                                                 with given numbers,alfabethics, and symbols.</p>
-                            <a href="https://tolgas92.github.io/Password-Generator/" target="blank" className="btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://tolgas92.github.io/Password-Generator/" target="blank" className="ms-5 btn btn-dark btn-outline-light">Go to Application</a>
+                            <a href="https://github1s.com/TolgaS92/Password-Generator" target="blank" className="ms-5 btn btn-light btn-outline-dark">Browse the Code</a>
                         </div>
                     </div>
                 </div>

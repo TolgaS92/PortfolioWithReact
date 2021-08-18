@@ -36,6 +36,9 @@ function ContactForm() {
 
     return (
         <div className="container">
+            <div class="spinner-grow text-dark" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
             <div className="row">
                 <h2 className="col-sm-12 mt-5 font-weight-bold text-white">Contact Form</h2>
             </div>
