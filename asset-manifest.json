@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PortfolioWithReact/static/css/main.2401f3f1.chunk.css",
-    "main.js": "/PortfolioWithReact/static/js/main.357f6d1a.chunk.js",
-    "main.js.map": "/PortfolioWithReact/static/js/main.357f6d1a.chunk.js.map",
+    "main.js": "/PortfolioWithReact/static/js/main.869dbdbf.chunk.js",
+    "main.js.map": "/PortfolioWithReact/static/js/main.869dbdbf.chunk.js.map",
     "runtime-main.js": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js",
     "runtime-main.js.map": "/PortfolioWithReact/static/js/runtime-main.253d5b85.js.map",
     "static/css/2.ccaf9f56.chunk.css": "/PortfolioWithReact/static/css/2.ccaf9f56.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/Dayplanner.4e0e3718.jpg": "/PortfolioWithReact/static/media/Dayplanner.4e0e3718.jpg",
     "static/media/NPandWA.a683ad94.png": "/PortfolioWithReact/static/media/NPandWA.a683ad94.png",
     "static/media/PasswordGen.f1b600af.jpg": "/PortfolioWithReact/static/media/PasswordGen.f1b600af.jpg",
-    "static/media/TolgaSecme08_18_2021.8c8e2c42.pdf": "/PortfolioWithReact/static/media/TolgaSecme08_18_2021.8c8e2c42.pdf",
+    "static/media/TS Resume 1 Page .docx.aaa0c34e.pdf": "/PortfolioWithReact/static/media/TS Resume 1 Page .docx.aaa0c34e.pdf",
     "static/media/UdacityCertificate.cdcbb1bf.jpg": "/PortfolioWithReact/static/media/UdacityCertificate.cdcbb1bf.jpg",
     "static/media/WeatherDashboard.3e0e2c5d.jpg": "/PortfolioWithReact/static/media/WeatherDashboard.3e0e2c5d.jpg",
     "static/media/dashboard.4753df9d.jpg": "/PortfolioWithReact/static/media/dashboard.4753df9d.jpg",
@@ -32,6 +32,6 @@
     "static/css/2.ccaf9f56.chunk.css",
     "static/js/2.f137e813.chunk.js",
     "static/css/main.2401f3f1.chunk.css",
-    "static/js/main.357f6d1a.chunk.js"
+    "static/js/main.869dbdbf.chunk.js"
   ]
 }
