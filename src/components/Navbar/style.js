@@ -47,4 +47,16 @@ export default makeStyles((theme) => ({
   signIn: {
     display: 'flex',
   },
+  menuButton: {
+    marginRight: theme.spacing(2),
+},
+root: {
+  flexGrow: 1,
+},
+roundedPic: {
+  width: theme.spacing(15),
+  height: theme.spacing(15),
+  marginTop: '20px',
+  alignSelf: 'center'
+},
 }));
