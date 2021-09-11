@@ -48,14 +48,14 @@ export default makeStyles((theme) => ({
     display: 'flex',
   },
   menuButton: {
-    marginRight: theme.spacing(2),
+    marginRight: theme.spacing(3),
 },
 root: {
   flexGrow: 1,
 },
 roundedPic: {
-  width: theme.spacing(15),
-  height: theme.spacing(15),
+  width: theme.spacing(20),
+  height: theme.spacing(20),
   marginTop: '20px',
   alignSelf: 'center'
 },
