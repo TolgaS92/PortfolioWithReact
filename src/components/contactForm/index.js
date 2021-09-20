@@ -1,18 +1,20 @@
 import React, { useState } from "react";
 import emailjs from 'emailjs-com';
+import { useHistory } from 'react-router-dom';
 
 function ContactForm() {
     const [userName, setUserName] = useState();
     const [userEmail, setUserEmail] = useState();
     const [userMessage, setUserMessage] = useState();
-
+    const history = useHistory();
     const handleFormSubmit = event => {
         event.preventDefault();
         if (!userName || !userEmail || !userMessage) {
             alert("Please fill the empty areas")
         } else {
             sendMessage(event)
-            alert("Your message has been sent, thank you!")
+            alert("Your message has been sent, thank you! and You are redirecting to Home Page!")
+            history.push('/PortfolioWithReact')
         }
         setUserName()
         setUserEmail()
