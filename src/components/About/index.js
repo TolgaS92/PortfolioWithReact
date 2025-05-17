@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import Resume from './resume/TS Resume 1 Page .docx.pdf';
+import Resume from './resume/Tolga_Secme_Resume_pdf_05_17_2025.pdf';
 
 
 
@@ -12,7 +12,11 @@ function About() {
                     <div className="col-lg-9 text-center">
                         <h2 className="text-center mt-0 about">About Me</h2>
                         <hr className="divider my-4" color="#408eff" />
-                        <p className="text-muted mb-0">Tolga Secme is a Full-Stack Web Developer experienced with Front End development, API’s, Back End Development. Programming & Markup languages: Node.Js., Express, JavaScript, jQuery, React.js, React, JSX, GIT, GitHub, MongoDB, MySQL, Mongoose, Handlebars, HTML5, CSS3, Bootstrap, Materialize, APIs, Heroku, Terminal, AJAX, Restful API, ES6, React Hooks, JSON, Sequelize</p>
+                        <p className="text-muted mb-0"> Results-oriented Software Developer with 5+ years of experience in full-stack development, cloud migration, and
+                                                        DevOps automation. Proficient in C#, .NET Core, Angular, React, and AWS. Skilled in RESTful API development, SQL
+                                                        optimization, and implementing CI/CD pipelines using GitHub Actions. Passionate about leveraging AI tools like
+                                                        ChatGPT and Cursor to improve code quality and reduce bugs. Collaborative and detail-focused with a proven ability to
+                                                        align development with business goals</p>
                             <hr></hr>
                             <div className="col-sm-12">
                             <a href={Resume} target="blank" className="btn btn-outline-dark about-btn" role="button"><i className="fas fa-user-circle"></i> Resume</a>

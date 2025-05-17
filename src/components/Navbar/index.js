@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { SwipeableDrawer, Toolbar, AppBar, Typography, Button, IconButton, Avatar,ListItem, ListItemIcon, ListItemText, List, Divider, } from '@material-ui/core';
 import { GetAppRounded, EmailRounded, GitHub, LinkedIn, Phone, Home, InfoRounded, ContactMailRounded, DescriptionRounded } from '@material-ui/icons/';
 import MenuIcon from "@material-ui/icons/Menu";
-import Resume from "../../components/About/resume/TS Resume 1 Page .docx.pdf";
+import Resume from "../../components/About/resume/Tolga_Secme_Resume_pdf_05_17_2025.pdf";
 import Profile from "../../components/Jumbotron/images/profilepic.jpg";
 import useStyles from './style';
 
